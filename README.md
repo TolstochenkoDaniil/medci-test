@@ -52,7 +52,7 @@
 1. Скачать репозиторий
 
    ```sh
-   git clone <git_url>
+   git clone https://github.com/TolstochenkoDaniil/medci-test.git .
    ```
 
 2. Собрать образ
